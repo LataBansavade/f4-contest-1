@@ -1,0 +1,10 @@
+
+#emailInput{
+    border-radius: 8px;
+}
+
+.emailDiv{
+    display: flex;
+    flex-direction: column;
+   
+}
